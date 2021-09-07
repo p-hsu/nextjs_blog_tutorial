@@ -49,7 +49,7 @@ export default function Layout({ children, home }) {
                     className={utilStyles.borderCircle}
                     height={115}
                     width={108}
-                    alt={pam}
+                    alt={name}
                   />
                 </a>
               </Link>
